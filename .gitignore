@@ -168,3 +168,4 @@ dmypy.json
 .pyre/
 
 #devops project gitignore
+*.env*
