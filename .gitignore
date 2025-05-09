@@ -169,3 +169,5 @@ dmypy.json
 
 #devops project gitignore
 *.env*
+
+.DS_Store
